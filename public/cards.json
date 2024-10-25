@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "name": "Viral Kohli",
+    "country": "India",
+    "role": "All-Rounder",
+    "rating": "Left-Hand-Bat",
+    "price": "$150",
+    "imageUrl": "https://i.ibb.co.com/WkbpnQ4/ai-generated-7923130-960-720.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Darrell Steward",
+    "country": "India",
+    "role": "All-Rounder",
+    "rating": "Left-Hand-Bat",
+    "price": "$150",
+    "imageUrl": "https://i.ibb.co.com/WkbpnQ4/ai-generated-7923130-960-720.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Darrell Steward",
+    "country": "India",
+    "role": "All-Rounder",
+    "rating": "Left-Hand-Bat",
+    "price": "$150",
+    "imageUrl": "https://i.ibb.co.com/WkbpnQ4/ai-generated-7923130-960-720.jpg"
+  }
+]
